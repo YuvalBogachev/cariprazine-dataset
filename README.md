@@ -1,4 +1,6 @@
-![Cariprazine](https://bipolarnews.org/wp-content/uploads/2014/06/cariprazine-potw-01.jpg)
+<p align="center">
+  <img src="https://bipolarnews.org/wp-content/uploads/2014/06/cariprazine-potw-01.jpg">
+</p>
 
 <h1 align="center">Cariprazine Dataset</h1>
 <p align="center"><b>A Cariprazine User Review Dataset</b></p>
