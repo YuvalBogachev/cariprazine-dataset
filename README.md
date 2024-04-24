@@ -1,4 +1,4 @@
-![Cariprazine](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbipolarnews.org%2F%3Ftag%3Dcariprazine&psig=AOvVaw1PNVa3fES9evKKHJqZdfbI&ust=1714059373350000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCjxvSW24UDFQAAAAAdAAAAABAD)
+![Cariprazine](https://bipolarnews.org/wp-content/uploads/2014/06/cariprazine-potw-01.jpg)
 
 <h1 align="center">Cariprazine Dataset</h1>
 <p align="center"><b>A Cariprazine User Review Dataset</b></p>
